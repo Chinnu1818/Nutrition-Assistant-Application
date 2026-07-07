@@ -178,7 +178,7 @@ npm run dev
 
 ## 🧑‍💻 Author
 
-**Dhanunjaya Reddy Pallerla**
+**Vivek Arepalli**
 B.Tech (CSE) | Full Stack Developer
 
 ---
